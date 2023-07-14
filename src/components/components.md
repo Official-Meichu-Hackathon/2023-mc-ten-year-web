@@ -1,0 +1,1 @@
+here is used to store the component in each page 
